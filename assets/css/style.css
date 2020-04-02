@@ -122,10 +122,10 @@ h3 {
   height: 100vh;
 }
 #intro.section {
-  background: url(../../assets/img/IMG_rizwan.jpg) no-repeat top
-    center/cover;
+  /*background: url(./assets/img/IMG_rizwan.jpg) no-repeat top
+    center/cover ; */
   position: relative;
-  transform: rotate(240deg);
+  transform: rotate(240 deg);
 }
 #intro.section .container {
   color: white;
