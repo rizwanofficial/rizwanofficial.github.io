@@ -125,6 +125,7 @@ h3 {
   background: url(../../assets/img/IMG_rizwan.jpg) no-repeat top
     center/cover;
   position: relative;
+  transform: rotate(240deg);
 }
 #intro.section .container {
   color: white;
