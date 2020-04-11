@@ -125,6 +125,9 @@ h3 {
   background: url(./assets/img/rizwanimagesample.jpg) no-repeat top center/cover ;
   position: relative;
 }
+#into1{
+  background: url(./assets/img/rizwanimagesample.jpg);
+}
 #intro.section .container {
   color: white;
   font-weight: 200;
